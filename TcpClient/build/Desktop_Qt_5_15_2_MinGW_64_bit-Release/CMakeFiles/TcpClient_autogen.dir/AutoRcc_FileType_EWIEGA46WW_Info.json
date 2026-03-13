@@ -1,0 +1,26 @@
+{
+	"BUILD_DIR" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TcpClient_autogen",
+	"CMAKE_BINARY_DIR" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/QT/NetDisk/TcpClient",
+	"CMAKE_SOURCE_DIR" : "D:/QT/NetDisk/TcpClient",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TcpClient_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/QT/NetDisk/TcpClient/map/reg.jpg",
+		"D:/QT/NetDisk/TcpClient/map/dir.jpg"
+	],
+	"LOCK_FILE" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/TcpClient_autogen.dir/AutoRcc_FileType_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "FileType" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_FileType.cpp",
+	"RCC_EXECUTABLE" : "D:/develop/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/TcpClient_autogen.dir/AutoRcc_FileType_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/QT/NetDisk/TcpClient/FileType.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

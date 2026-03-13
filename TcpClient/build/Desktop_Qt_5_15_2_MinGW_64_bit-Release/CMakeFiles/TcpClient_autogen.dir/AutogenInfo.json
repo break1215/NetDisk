@@ -1,0 +1,212 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TcpClient_autogen",
+	"CMAKE_BINARY_DIR" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/QT/NetDisk/TcpClient",
+	"CMAKE_EXECUTABLE" : "D:/develop/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/QT/NetDisk/TcpClient/CMakeLists.txt",
+		"D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/.qtc/package-manager/auto-setup.cmake",
+		"D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/3.30.5/CMakeSystem.cmake",
+		"D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/.qtc/package-manager/maintenance_tool_provider.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake",
+		"D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake",
+		"D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/3.30.5/CMakeRCCompiler.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"D:/develop/Qt/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"D:/QT/NetDisk/TcpClient/config.qrc",
+		"D:/QT/NetDisk/TcpClient/FileType.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/QT/NetDisk/TcpClient",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TcpClient_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "TcpClient_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"D:/QT/NetDisk/TcpClient/book.h",
+			"MU",
+			"EWIEGA46WW/moc_book.cpp",
+			null
+		],
+		[
+			"D:/QT/NetDisk/TcpClient/friend.h",
+			"MU",
+			"EWIEGA46WW/moc_friend.cpp",
+			null
+		],
+		[
+			"D:/QT/NetDisk/TcpClient/online.h",
+			"MU",
+			"EWIEGA46WW/moc_online.cpp",
+			null
+		],
+		[
+			"D:/QT/NetDisk/TcpClient/opewidget.h",
+			"MU",
+			"EWIEGA46WW/moc_opewidget.cpp",
+			null
+		],
+		[
+			"D:/QT/NetDisk/TcpClient/privatechat.h",
+			"MU",
+			"EWIEGA46WW/moc_privatechat.cpp",
+			null
+		],
+		[
+			"D:/QT/NetDisk/TcpClient/protocol.h",
+			"MU",
+			"EWIEGA46WW/moc_protocol.cpp",
+			null
+		],
+		[
+			"D:/QT/NetDisk/TcpClient/sharefile.h",
+			"MU",
+			"EWIEGA46WW/moc_sharefile.cpp",
+			null
+		],
+		[
+			"D:/QT/NetDisk/TcpClient/tcpclient.h",
+			"MU",
+			"EWIEGA46WW/moc_tcpclient.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TcpClient_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TcpClient_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/develop/Qt/5.15.2/mingw81_64/include",
+		"D:/develop/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"D:/develop/Qt/5.15.2/mingw81_64/include/QtGui",
+		"D:/develop/Qt/5.15.2/mingw81_64/include/QtANGLE",
+		"D:/develop/Qt/5.15.2/mingw81_64/include/QtCore",
+		"D:/develop/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"D:/develop/Qt/5.15.2/mingw81_64/include/QtNetwork",
+		"D:/develop/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"D:/develop/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"D:/develop/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"D:/develop/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"D:/develop/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"D:/develop/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/develop/Qt/Tools/mingw810_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/develop/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/TcpClient_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/TcpClient_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/develop/Qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/develop/Qt/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "D:/QT/NetDisk/TcpClient/build/Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/TcpClient_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "D:/QT/NetDisk/TcpClient/book.cpp", "MU", null ],
+		[ "D:/QT/NetDisk/TcpClient/friend.cpp", "MU", null ],
+		[ "D:/QT/NetDisk/TcpClient/main.cpp", "MU", null ],
+		[ "D:/QT/NetDisk/TcpClient/online.cpp", "MU", null ],
+		[ "D:/QT/NetDisk/TcpClient/opewidget.cpp", "MU", null ],
+		[ "D:/QT/NetDisk/TcpClient/privatechat.cpp", "MU", null ],
+		[ "D:/QT/NetDisk/TcpClient/protocol.cpp", "MU", null ],
+		[ "D:/QT/NetDisk/TcpClient/sharefile.cpp", "MU", null ],
+		[ "D:/QT/NetDisk/TcpClient/tcpclient.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
